@@ -20,4 +20,7 @@ From this story has grown the idiom "to open (a) Pandora's box", meaning to do o
 The word translated as "box" was actually a large jar (πίθος pithos) in Greek. It was used for storage of wine, oil, grain or other provisions, or, ritually, as a container for a human body for burying, from which it was believed souls escaped and necessarily returned. Many scholars see a close analogy between Pandora herself, who was made from clay, and the clay jar which dispenses evils.
 
 The mistranslation of pithos is usually attributed to the 16th century humanist Erasmus who, in his Latin account of the story of Pandora, changed the Greek pithos to pyxis, meaning "box". The context in which the story appeared was Erasmus' collection of proverbs, the Adagia (1508), in illustration of the Latin saying Malo accepto stultus sapit (from experiencing trouble a fool is made wise). In his version the box is opened by Epimetheus, whose name means 'Afterthought' – or as Hesiod comments, "he whom mistakes made wise".
+
+
+Calvin was here
 ```
